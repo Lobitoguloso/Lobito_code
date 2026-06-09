@@ -1,5 +1,5 @@
 # Lobito_code by Arthur 
-"olho e não encontro vejo se não fui um tonto de acreditar no conto do vigário que escutei...". 
+"olho e não encontro vejo se não fui um tonto de acreditar no conto do vigário que escutei..." pullovers.
 
 Lobito_code é uma ferramenta de organização de scripts básicos no termux, ótimo para iniciantes 
 # para ultilizar a ferramenta,instale o git,para evitar erros,atualize as dependências do termux com o seguinte comando:
@@ -30,9 +30,9 @@ nano ~/.bashrc
 https://pt.anotepad.com/notes/36db42f6
 (senha:lobito_dev)
 
-# e por fim,para definir o comando "painel"para abrir o lobito code de novo basta adicionar este código:
+após isso,aperte ctrl+x,e então aperte enter (ou o botão de enviar mensagem se estiver no celular)
 
-echo "alias painel='bash ~/ lobito_code.sh >> ~/.bashrc
+# e por fim,use o comando "painel"para abrir o lobito code de novo
 
 # ferramentas para usar com Lobito_code(instale seguindo as instruções):
 
