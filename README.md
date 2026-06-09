@@ -20,6 +20,35 @@ git clone https://github.com/Lobitoguloso/Lobito_code/tree/main
 
 e então você já está quase terminando a configuração 
 
+# configuração do Lobito_code
+
+após já estar tudo instalado, você vai digitar o seguinte comando:
+
+nano ~/.bashrc
+
+# após isso, você ira apagar tudo que estiver no arquivo e colar o seguinte código:
+
+  GNU nano 9.0   /data/data/com.termux/files/home/.bashrc
+# ============================================
+# LOBITO CODE - Auto-init
+# By: Arthur
+# ============================================
+
+# Limpa a tela inicial do Termux
+clear
+
+# Executa o painel automaticamente
+bash ~/lobito_code.sh
+
+# Se sair do painel, volta pro terminal normal
+echo ""
+echo -e "\033[38;5;214m[*] Painel encerrado. Terminal normal disponiv>
+echo -e "\033[0;32m[*] Digite 'painel' para reabrir o Lobito Code.\03>
+alias painel='bash ~/lobito_code.sh'
+
+alias painel='bash ~/.lobito_code.sh'
+alias painel='bash ~/lobito_code.sh'
+
 # ferramentas para usar com Lobito_code(instale seguindo as instruções):
 
 ghosttrack:
