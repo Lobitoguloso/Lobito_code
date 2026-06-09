@@ -2,8 +2,7 @@
 "olho e não encontro vejo se não fui um tonto de acreditar no conto do vigário que escutei...". 
 
 Lobito_code é uma ferramenta de organização de scripts básicos no termux, ótimo para iniciantes 
-#para ultilizar a ferramenta,instale o git,
-para evitar erros,atualize as dependências do termux com o seguinte comando:
+# para ultilizar a ferramenta,instale o git,para evitar erros,atualize as dependências do termux com o seguinte comando:
 
 pkg update && pkg upgrade -y
 
