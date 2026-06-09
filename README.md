@@ -27,7 +27,8 @@ após já estar tudo instalado, você vai digitar o seguinte comando:
 nano ~/.bashrc
 
 # após isso, você ira apagar tudo que estiver no arquivo e colar o seguinte código:
-
+https://pt.anotepad.com/notes/36db42f6
+(senha:lobito)
 
 # ferramentas para usar com Lobito_code(instale seguindo as instruções):
 
