@@ -6,21 +6,21 @@ Lobito_code é uma ferramenta de organização de scripts básicos no termux, ó
 
 pkg update && pkg upgrade -y
 
-após isso,digite o seguinte comando:
+# após isso,digite o seguinte comando:
 
 pkg install git openssh -y
 
-para confirmar a instalação (se ocorreu tudo certo)digite o seguinte comando:
+# para confirmar a instalação (se ocorreu tudo certo)digite o seguinte comando:
 
 git --version
 
-após a instalação do git,digite o seguinte comando:
+# após a instalação do git,digite o seguinte comando:
 
 git clone 
 
 e então você já está quase terminando a configuração 
 
-ferramentas para usar com Lobito_code(instale seguindo as instruções):
+# ferramentas para usar com Lobito_code(instale seguindo as instruções):
 
 ghosttrack:
 https://github.com/HunxByts/GhostTrack
