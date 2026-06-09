@@ -27,30 +27,6 @@ após já estar tudo instalado, você vai digitar o seguinte comando:
 nano ~/.bashrc
 
 # após isso, você ira apagar tudo que estiver no arquivo e colar o seguinte código:
-function olaMundo() {
-    console.log("
-# ============================================
-# LOBITO CODE - Auto-init
-# By: Arthur
-# ============================================
-
-# Limpa a tela inicial do Termux
-clear
-
-# Executa o painel automaticamente
-bash ~/lobito_code.sh
-
-# Se sair do painel, volta pro terminal normal
-echo ""
-echo -e "\033[38;5;214m[*] Painel encerrado. Terminal normal disponivel.\033[0m"
-echo -e "\033[0;32m[*] Digite 'painel' para reabrir o Lobito Code.\033[0m"
-alias painel='bash ~/lobito_code.sh'
-
-alias painel='bash ~/.lobito_code.sh'
-alias painel='bash ~/lobito_code.sh'
-
-");
-}
 
 
 # ferramentas para usar com Lobito_code(instale seguindo as instruções):
