@@ -30,6 +30,10 @@ nano ~/.bashrc
 https://pt.anotepad.com/notes/36db42f6
 (senha:lobito_dev)
 
+# e por fim,para definir o comando "painel"para abrir o lobito code de novo basta adicionar este código:
+
+echo "alias painel='bash ~/ lobito_code.sh >> ~/.bashrc
+
 # ferramentas para usar com Lobito_code(instale seguindo as instruções):
 
 ghosttrack:
