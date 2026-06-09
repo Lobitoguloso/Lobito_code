@@ -16,7 +16,7 @@ git --version
 
 # após a instalação do git,digite o seguinte comando:
 
-git clone 
+git clone https://github.com/Lobitoguloso/Lobito_code/tree/main
 
 e então você já está quase terminando a configuração 
 
