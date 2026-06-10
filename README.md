@@ -54,3 +54,6 @@ https://github.com/TheSpeedX/Tbomb
 Tool-X:
 https://github.com/trmxvibs/Tool-X
 
+core-termux(ias e outros):
+https://github.com/DevCoreXOfficial/core-termux
+
